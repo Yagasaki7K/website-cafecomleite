@@ -1,10 +1,10 @@
 # O que é o Café com Leite?
-É um esquema de cores impulsionado pela comunidade destinado à codificação, design e muito mais!
+Café com Leite, do Francês Café au lait - É um esquema de cores impulsionado pela comunidade destinado à codificação, design e muito mais!
 
 Atualmente temos dois temas: Café Achocolatado (Tema Claro) e o Café com Leite (Tema Escuro), a função
 deles é facilitar o seu cotidiano com temas pastéis que facilitam a visualização tanto noturna quanto diurna, dando um ar agradável e suave aos olhos. Algo que o próprio café tem como função.
 
-# Café Achocolatado
+# Café Espresso
 Quando se trata de design para temas claros, o contraste é essencial para garantir que os elementos visuais se destaquem e sejam facilmente perceptíveis. Em um ambiente com predominância de luz natural, cores vibrantes e saturadas podem criar um contraste marcante, adicionando profundidade e interesse ao design. 
 
 Além disso, o uso inteligente de técnicas de design, como tipografia em negrito e espaçamento cuidadosamente planejado, ajuda a criar uma hierarquia visual clara, garantindo que os elementos mais importantes da interface sejam facilmente identificados pelos usuários:
@@ -90,10 +90,11 @@ Além disso, o uso inteligente de técnicas de design, como tipografia em negrit
     <div style="margin-bottom: 0.6rem;"> Branco Neve | #DCE0E8 | rgb(220, 224, 232) </div>
 </div>
 
----
+<p align="center">
+  <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
+</p>
 
-
-# Café com Leite
+# Café au lait
 Quando se trata de design para temas mais escuros, a ênfase está no equilíbrio entre contraste e legibilidade. Em um ambiente com tons mais escuros, é crucial garantir que os elementos visuais se destaquem sem comprometer a facilidade de leitura. Isso pode ser alcançado através do uso de cores contrastantes que proporcionam uma clara distinção entre os diferentes elementos da interface. 
 
 Além disso, estratégias como o uso de fontes com peso mais leve e o espaçamento adequado entre os elementos ajudam a garantir que o conteúdo seja facilmente legível, mesmo em um ambiente com pouca luminosidade:
@@ -163,13 +164,14 @@ Além disso, estratégias como o uso de fontes com peso mais leve e o espaçamen
 <div style="margin-bottom: 0.6rem"> Preto Ônix | #11111B | rgb(17, 17, 27) </div>
 </div>
 
----
+<p align="center">
+  <img src="https://github.com/Yagasaki7K/website-cafecomleite/assets/23272064/febb5104-0741-481a-9171-44ff1b2b3e26" alt="café com leite palette" width="400" />
+</p>
 
 Café com Leite é um tema pastel colaborativo que visa estabelecer um ponto intermediário entre os temas de baixo e alto contraste, proporcionando uma experiência visual agradável e relaxante. 
 
 Com sua paleta de cores suaves e reconfortantes, inspiradas nas nuances do café e do leite, este tema oferece uma variedade de tonalidades envolventes, perfeitas para atividades de programação, design e outras tarefas criativas. 
 
 Seus tons sutis e acolhedores são especialmente projetados para criar um ambiente visualmente atraente, sem causar fadiga ou distração excessiva, permitindo uma concentração mais profunda e produtiva.
-
 
 Copyright © 2024 - Café com Leite by Anderson Marlon
